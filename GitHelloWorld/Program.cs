@@ -9,6 +9,10 @@ namespace GitHelloWorld
     {
         static void Main(string[] args)
         {
+            int a, b;
+            a = 1;
+            b = 10;
+            Console.WriteLine(a " + " b "=", );
             Console.WriteLine("hello world !!");
             Console.ReadKey();
         }
